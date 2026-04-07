@@ -67,4 +67,4 @@ This project analyzes the impact of fast food consumption on overall health usin
 
 ### 1️ Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Krishna-vamsee/EatSmart
